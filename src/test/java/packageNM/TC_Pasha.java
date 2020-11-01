@@ -7,7 +7,7 @@ public class TC_Pasha {
         if (rat == true){
             System.out.println("Delete from the group");
         }else {
-            System.out.println("Good job");
+            System.out.println("Good job!");
         }
     }
 }
